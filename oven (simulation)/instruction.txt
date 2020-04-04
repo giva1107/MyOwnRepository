@@ -1,0 +1,2 @@
+1. open button .exe
+2. open process.exe
