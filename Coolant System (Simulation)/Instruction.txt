@@ -1,0 +1,3 @@
+1. Open remote.exe
+2. Open display1.exe
+3. Open Check_Room_Temp.exe 
